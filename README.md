@@ -11,7 +11,7 @@ This platform features a professional customer intelligence dashboard implementi
 
 ---
 
-## 🚀 How to Run the Project (Como Executar o Projeto)
+## 🚀 How to Run the Project 
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ Make sure you have **Python 3.10+** and **Node.js (v18+)** installed.
 
 ---
 
-### Step 1: Start the Flask Backend Server (Passo 1: Iniciar o Servidor Flask)
+### Step 1: Start the Flask Backend Server 
 
 The backend manages real-time customer lookups, retrieves historical carts, and serves the mined association rules.
 
@@ -59,7 +59,7 @@ The backend manages real-time customer lookups, retrieves historical carts, and 
 
 ---
 
-### Step 2: Start the React Frontend Dashboard (Passo 2: Iniciar o Dashboard React)
+### Step 2: Start the React Frontend Dashboard 
 
 The dashboard provides a visual, interactive interface to explore segment distributions, view clustering metrics, and run simulator actions.
 
