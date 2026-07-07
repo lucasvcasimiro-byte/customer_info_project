@@ -1,6 +1,6 @@
 # ⬡ ClusterNova - Customer Segmentation & Basket Analysis
 
-Machine Learning II project developed by **Lucas Casemiro**, **Lourenço Lima**, and **Afonso Lince** (undergraduate students in Data Science at NOVA IMS).
+Machine Learning II project developed by **Lucas Casimiro**, **Lourenço Lima**, and **Afonso Lince** (undergraduate students in Data Science at NOVA IMS).
 
 This platform features a professional customer intelligence dashboard implementing:
 
